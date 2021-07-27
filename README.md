@@ -1,3 +1,2 @@
 # 100daysofcode
-DAY 1-CALULATOR
-DAY 2-TRIGNOMETRY
+
