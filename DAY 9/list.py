@@ -24,6 +24,6 @@ sum = [lst1[i] + lst2[i] for i in range(len(lst1))]
 if __name__== "__main__":
 
 
-    print("Addition of all elements in given lists: ", new)
+    print("Appending of all elements in given lists: ", new)
 
     print("sum of all elements in given lists: ", sum)
